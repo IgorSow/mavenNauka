@@ -1,0 +1,26 @@
+
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(˜¿ƒÔ8ªûÄ¾,
+isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(çÓ§®8ªûÄ¾,
+[
+squid:S106S"9Replace this use of System.out or System.err by a logger.(¾‚£œúÿÿÿÿ8ªûÄ¾,
+Osquid:S1481I",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8ªûÄ¾,
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ®Ái8ªûÄ¾,
+^squid:S1854I";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8ªûÄ¾,
+nsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(½ÈÕ·şÿÿÿÿ8ªûÄ¾,
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(‚Ãø8ªûÄ¾,
+8squid:S1220""Move this file to a named package.8ªûÄ¾,
+Psquid:S1481="-Remove this unused "kwadrat1" local variable.(ñ¿ÔÅÿÿÿÿÿ8ªûÄ¾,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÖÓÀøÿÿÿÿ8ªûÄ¾,
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(¬¡™½ûÿÿÿÿ8ªûÄ¾,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(º’¤ìøÿÿÿÿ8ªûÄ¾,
+_squid:S1854="<Remove this useless assignment to local variable "kwadrat1".(ñ¿ÔÅÿÿÿÿÿ8ªûÄ¾,
+nsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ªûÄ¾,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(„±ıí8ªûÄ¾,
+isquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(Ø¸¦á8ªûÄ¾,

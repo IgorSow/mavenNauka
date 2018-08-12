@@ -1,0 +1,6 @@
+
+Asquid:S1068"%Remove this unused "y" private field.(Ê€ÄŒøÿÿÿÿ
+Osquid:S1854"8Remove this useless assignment to local variable "pole".(Ù§ª¥
+ssquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "pole".(Ù§ª¥
+Esquid:S1068")Remove this unused "point" private field.(°¢¦²üÿÿÿÿ
+Asquid:S1068"%Remove this unused "x" private field.(ĞÇñüÿÿÿÿ

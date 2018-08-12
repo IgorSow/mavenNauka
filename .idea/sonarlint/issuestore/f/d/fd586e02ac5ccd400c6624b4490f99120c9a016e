@@ -1,0 +1,31 @@
+
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ï½Æ†úÿÿÿÿ8×ÏãßÃ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö‹¶¶ÿÿÿÿÿ8×ÏãßÃ,
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(É–¯ûÿÿÿÿ8×ÏãßÃ,
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ŠÜÛ©şÿÿÿÿ8×ÏãßÃ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÊ™ÿ8×ÏãßÃ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼òµ8×ÏãßÃ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(®Öù¦úÿÿÿÿ8×ÏãßÃ,
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8×ÏãßÃ,
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(³•äW8×ÏãßÃ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏŞÕ¡8×ÏãßÃ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈèşŒÿÿÿÿÿ8×ÏãßÃ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ÛŠ‘8×ÏãßÃ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñÖÆ®8×ÏãßÃ,
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÒàĞ8×ÏãßÃ,
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ÁÃÎ•8×ÏãßÃ,
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8×ÏãßÃ,

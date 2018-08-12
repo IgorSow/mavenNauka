@@ -1,0 +1,12 @@
+ksiazka:
+    tytul (klasa Title):
+        jezyk_tytulu:
+                     :orginal
+                     :slang_jezyka
+         typ_ksiazki (enum)
+         rok_wydania
+
+
+    autor:
+            mapa ksiazek wg roku napisania
+                            lista alfabetyczna

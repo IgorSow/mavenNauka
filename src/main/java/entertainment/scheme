@@ -1,0 +1,23 @@
+MULTIMEDIA
+
+    nameOfMedia - enum
+
+
+
+
+
+Zadanie domowe
+1.Zaprojektuj i przetestuj tak samo jak na zajeciach przyklad z autorem i ksiazkami.
+W main stworzyć Lista obiektów Multimedia i wypelnic danymi,
+na koncu wyswietlic wszystkie pozycje z listy obiektów Multimedia.
+
+Klasa Multimedia zawiera typ oraz liste elementów
+typ to enum
+element to klasa glowna po niej maja dziedziczyc pod klasy (podklasa ma zawierac metode toString),
+w element ma byc tytul oraz cena
+
+
+2. Przećwiczyć odczytywanie plików CSV przy użyciu Java 8, Guava oraz Commons
+Zapisać wczytane dane do:
+- listy Stringów
+- mapy stringów gdzie kluczem będzie numer porządkowy wiersza
